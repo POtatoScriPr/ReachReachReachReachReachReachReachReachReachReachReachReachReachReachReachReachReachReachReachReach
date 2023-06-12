@@ -1,4 +1,4 @@
-```LUA
+
 ---
 ---
 ---
@@ -266,4 +266,4 @@ end)
 Section4:NewSlider("REACH", "SliderInfo", 100, 0, function(arg) -- 100 (MaxValue) | 0 (MinValue)
    DistanceReach = arg
 end)
-```
+
